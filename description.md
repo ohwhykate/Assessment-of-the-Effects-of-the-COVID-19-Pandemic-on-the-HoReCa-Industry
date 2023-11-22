@@ -14,10 +14,7 @@
 </ul>
 
 ## Data Dictionary
-<b>Survey from the Owner's Perspective</b>
-<details><summary>Click here to see the dictionary</summary>
-  
-<!-- Tabela zaczyna się poniżej -->
+<b>General question</b>
 |Variable | Description |
 |---------| ------------|
 |Sygnatura czasowa| Timestamp|
@@ -25,6 +22,12 @@
 |Wiek: | Age |
 |Wykształcenie:| Education|
 |Proszę zaznaczyć swoje powiązanie z branżą hotelarsko - gastronomiczną| Affiliation with the hotel and gastronomy industry (Owner, Employee, Guest)|
+
+<b>Survey from the Owner's Perspective</b>
+<details><summary>Click here to see the dictionary</summary>
+  
+<!-- Tabela zaczyna się poniżej -->
+|Variable | Description |
 |Proszę zaznaczyć rodzaj prowadzonej działalności HoReCa:|Type of HoReCa Business|
 |Województwo, w którym znajduje się hotel/restauracja:|Voivodeship|
 |Większość przychodów przed pandemią pochodziło z obsługi:|The majority of revenue before the pandemic came from catering|The primary revenue-generating customer group|

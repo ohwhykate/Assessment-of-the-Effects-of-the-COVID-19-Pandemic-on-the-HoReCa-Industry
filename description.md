@@ -31,6 +31,10 @@ Survey from the Owner's Perspective
 |Które wprowadzone znoszenie obostrzeń pozwoliło zredukować straty w przedsiębiorstwie?| Which easing of restrictions, when implemented, helped reduce losses for the company?|
 |Czy próbowała/próbował Pani/Pan stosować w swoim przedsiębiorstwie wymienione poniżej sposoby przeciwdziałania negatywnym skutkom pandemii COVID-19?| Have you attempted to implement the following measures to counter the negative effects of the COVID-19 pandemic in your business?|
 |Czy wyżej wymienione próby przyniosły wymierny skutek?|Did the aforementioned attempts yield measurable results?|
+
+Survey from the Employee's Perspective
+|Variable | Description |
+|---------| ------------|
 |W jakim dziale pracowałaś/pracowałeś przed rozpoczęciem pandemii?|In which department did you work before the onset of the pandemic?|
 |Jesteś zatrudniona/zatrudniony w miejscowości:|Are you employed in the town/city of:|
 |Forma zatrudnienia:|Employment status:|
@@ -46,6 +50,10 @@ Survey from the Owner's Perspective
 |Czy goście stosowali się do obowiązujących obostrzeń (noszenie maseczek, dystans społeczny)?|Did guests adhere to the prevailing restrictions (wearing masks, maintaining social distance)?|
 |Czy w Twoim miejscu pracy odbyła się kontrola sanepidu/policji (przestrzeganie obostrzeń)?|Did your workplace undergo inspections by the sanitary or police authorities regarding compliance with restrictions?|
 |Czy zaobserwowałaś/zaobserwowałeś zmniejszone obroty w miejscu, w którym pracujesz?|Have you observed reduced turnovers in the place where you work?|
+
+Survey from the Guest's Perspective
+|Variable | Description |
+|---------| ------------|
 |Z jakich usług hotelarsko - gastronomicznych korzystałeś najczęściej podczas pandemii?|Which hotel and gastronomic services did you use most frequently during the pandemic?|
 |Czy obawiałeś się korzystać z hoteli, restauracji, cateringu?|Were you hesitant to use hotels, restaurants, or catering services?|
 |Czy w ciągu 12 miesięcy częściej korzystałeś z aplikacji, portali internetowych w celu zamówienia usług hotelarsko - gastronomicznych (pyszne.pl, booking.com)?|Did you use apps or online platforms more often in the past 12 months to order hotel and gastronomic services (e.g., Pyszne.pl, Booking.com)?|

@@ -28,6 +28,7 @@
   
 <!-- Tabela zaczyna się poniżej -->
 |Variable | Description |
+|---------| ------------|
 |Proszę zaznaczyć rodzaj prowadzonej działalności HoReCa:|Type of HoReCa Business|
 |Województwo, w którym znajduje się hotel/restauracja:|Voivodeship|
 |Większość przychodów przed pandemią pochodziło z obsługi:|The majority of revenue before the pandemic came from catering|The primary revenue-generating customer group|

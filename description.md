@@ -8,7 +8,7 @@
 <b>Assessment of the effects of the covid-19 pandemic in the HoReCA industry </b> is a project based on a survey used for my bachelor's thesis. The effects of the COVID-19 pandemic in the hotel and gastronomy industry were assessed by guests and people professionally associated with the HoReCa industry. In order to assess the situation in the industry, three independent surveys were conducted. Their questionnaires were addressed to three groups of respondents: owners, employees and guests.
 
 ## Data Dictionary
-Survey from the Owner's Perspective
+<b>Survey from the Owner's Perspective</b>
 |Variable | Description |
 |---------| ------------|
 |Sygnatura czasowa| Timestamp|
@@ -32,7 +32,7 @@ Survey from the Owner's Perspective
 |Czy próbowała/próbował Pani/Pan stosować w swoim przedsiębiorstwie wymienione poniżej sposoby przeciwdziałania negatywnym skutkom pandemii COVID-19?| Have you attempted to implement the following measures to counter the negative effects of the COVID-19 pandemic in your business?|
 |Czy wyżej wymienione próby przyniosły wymierny skutek?|Did the aforementioned attempts yield measurable results?|
 
-Survey from the Employee's Perspective
+<b>Survey from the Employee's Perspective</b>
 |Variable | Description |
 |---------| ------------|
 |W jakim dziale pracowałaś/pracowałeś przed rozpoczęciem pandemii?|In which department did you work before the onset of the pandemic?|
@@ -51,7 +51,7 @@ Survey from the Employee's Perspective
 |Czy w Twoim miejscu pracy odbyła się kontrola sanepidu/policji (przestrzeganie obostrzeń)?|Did your workplace undergo inspections by the sanitary or police authorities regarding compliance with restrictions?|
 |Czy zaobserwowałaś/zaobserwowałeś zmniejszone obroty w miejscu, w którym pracujesz?|Have you observed reduced turnovers in the place where you work?|
 
-Survey from the Guest's Perspective
+<b>Survey from the Guest's Perspective</b>
 |Variable | Description |
 |---------| ------------|
 |Z jakich usług hotelarsko - gastronomicznych korzystałeś najczęściej podczas pandemii?|Which hotel and gastronomic services did you use most frequently during the pandemic?|

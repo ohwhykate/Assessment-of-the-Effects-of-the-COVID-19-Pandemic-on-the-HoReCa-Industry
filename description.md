@@ -68,4 +68,6 @@
 |Czy strajki przedsiębiorców, akcje zachęcające do ratowania polskiej turystyki oraz informacje płynące z rynku o coraz słabszej sytuacji w finansowej wielu przedsiębiorstw zachęciły Cię do wspierania branży hotelarsko - gastronomicznej|Did entrepreneurs' strikes, campaigns encouraging the rescue of Polish tourism, and information about the worsening financial situation of many businesses encourage you to support the hotel and gastronomy industry?|
 |Jak wspierałeś branże hotelarsko – gastronomiczną?|How did you support the hotel and gastronomy industry?|
 |Czy w Twojej ocenie pomoc Rządu była wystarczająca aby pokryć koszty oraz straty spowodowane pandemią COVID-19?|In your opinion, was the government assistance sufficient to cover the costs and losses caused by the COVID-19 pandemic?|
-|
+
+## Technologies
+

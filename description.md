@@ -9,6 +9,9 @@
 
 ## Data Dictionary
 <b>Survey from the Owner's Perspective</b>
+<details><summary>Click here to see the dictionary</summary>
+  
+<!-- Tabela zaczyna się poniżej -->
 |Variable | Description |
 |---------| ------------|
 |Sygnatura czasowa| Timestamp|
@@ -32,7 +35,13 @@
 |Czy próbowała/próbował Pani/Pan stosować w swoim przedsiębiorstwie wymienione poniżej sposoby przeciwdziałania negatywnym skutkom pandemii COVID-19?| Have you attempted to implement the following measures to counter the negative effects of the COVID-19 pandemic in your business?|
 |Czy wyżej wymienione próby przyniosły wymierny skutek?|Did the aforementioned attempts yield measurable results?|
 
+<!-- Tabela kończy się powyżej -->
+</details>
+
 <b>Survey from the Employee's Perspective</b>
+<details><summary>Click here to see the dictionary</summary>
+  
+<!-- Tabela zaczyna się poniżej -->
 |Variable | Description |
 |---------| ------------|
 |W jakim dziale pracowałaś/pracowałeś przed rozpoczęciem pandemii?|In which department did you work before the onset of the pandemic?|
@@ -51,7 +60,13 @@
 |Czy w Twoim miejscu pracy odbyła się kontrola sanepidu/policji (przestrzeganie obostrzeń)?|Did your workplace undergo inspections by the sanitary or police authorities regarding compliance with restrictions?|
 |Czy zaobserwowałaś/zaobserwowałeś zmniejszone obroty w miejscu, w którym pracujesz?|Have you observed reduced turnovers in the place where you work?|
 
+<!-- Tabela kończy się powyżej -->
+</details>
+
 <b>Survey from the Guest's Perspective</b>
+<details><summary>Click here to see the dictionary</summary>
+  
+<!-- Tabela zaczyna się poniżej -->
 |Variable | Description |
 |---------| ------------|
 |Z jakich usług hotelarsko - gastronomicznych korzystałeś najczęściej podczas pandemii?|Which hotel and gastronomic services did you use most frequently during the pandemic?|
@@ -69,5 +84,7 @@
 |Jak wspierałeś branże hotelarsko – gastronomiczną?|How did you support the hotel and gastronomy industry?|
 |Czy w Twojej ocenie pomoc Rządu była wystarczająca aby pokryć koszty oraz straty spowodowane pandemią COVID-19?|In your opinion, was the government assistance sufficient to cover the costs and losses caused by the COVID-19 pandemic?|
 
+<!-- Tabela kończy się powyżej -->
+</details>
 ## Technologies
 

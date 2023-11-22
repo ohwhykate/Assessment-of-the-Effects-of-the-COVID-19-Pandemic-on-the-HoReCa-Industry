@@ -1,7 +1,7 @@
 # Assessment of the effects of the COVID-19 pandemic in the HoReCA industry
 * Project overview
-* Data Dictionary
 * Technologies
+* Data Dictionary
 * Conclusion
 
 ## Project Overview

@@ -92,5 +92,6 @@
 
 <!-- Tabela kończy się powyżej -->
 </details>
-## Technologies
+
+## Conclusion
 
